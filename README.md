@@ -2,8 +2,7 @@
 
 Currently focusing on candidates in the July 14th Election.
 
-This document lists candidates running for office in Fort Worth, TX. In conjunction with a breakdown of the candidates values, voting history, and commitment to 
-creating change in our city, we will document quotes & interviews with said candidates.
+This document lists candidates who are on the election ballot in Fort Worth, TX. In conjunction with a breakdown of the candidates values, voting history, and commitment to creating change in our city, we will document quotes & interviews with said candidates.
 
 Rules:
   1. Submissions citing political party affiliation will not be accepted.
@@ -85,7 +84,7 @@ U.S HOUSE:
     "Guillermo" William Hayward
     Jenny Garcia Sharon
 
-STATEWIDE: RAILROAD COMMISSIONER: https://github.com/christiebeamer/Candidate-Research-Team---EIE/blob/master/Railroad%20Commissioner%20-%20On%20The%20Issues
+STATEWIDE: RAILROAD COMMISSIONER: <https://github.com/christiebeamer/Candidate-Research-Team---EIE/blob/master/Railroad%20Commissioner%20-%20On%20The%20Issues>
 
     Roberto R. "Beto" Alonzo
     Chrysta Castañeda
