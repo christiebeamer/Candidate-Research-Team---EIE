@@ -9,12 +9,12 @@ Rules:
   1. Submissions citing political party affiliation will not be accepted.
   2. Submissions without citing of sources will not be accepted.
 
-Statewide: U.S. Senate:
+STATEWIDE - U.S. SENATE:
 
     Mary "MJ" Hegar
     Royce West
 
-U.S. House — 15 runoff contests
+U.S HOUSE:
 
   District 3
 
@@ -85,12 +85,12 @@ U.S. House — 15 runoff contests
     "Guillermo" William Hayward
     Jenny Garcia Sharon
 
-Statewide: Railroad Commissioner — 1 runoff contest
+STATEWIDE: RAILROAD COMMISSIONER: https://github.com/christiebeamer/Candidate-Research-Team---EIE/blob/master/Railroad%20Commissioner%20-%20On%20The%20Issues
 
     Roberto R. "Beto" Alonzo
     Chrysta Castañeda
 
-State Board of Education — 2 runoff contests
+STATE BOARD OF EDUCATION:
 
   District 5
 
@@ -102,7 +102,7 @@ State Board of Education — 2 runoff contests
     Kimberly McLeod
     Michelle Palmer
 
-Texas Senate — 2 runoff contests
+TEXAS SENATE:
 
   District 19
 
@@ -114,7 +114,7 @@ Texas Senate — 2 runoff contests
     Sara Stapleton Barrera
     Eddie Lucio, Jr. Incumbent
 
-Texas House — 14 runoff contests
+TEXAS HOUSE:
 
   District 2
 
