@@ -16,7 +16,7 @@ Statewide: U.S. Senate:
 
 U.S. House — 15 runoff contests
 
-  Distric 3
+  District 3
 
     Sean McCaffity
     Lulu Seikaly 
